@@ -1,2 +1,2 @@
-# publications
+# Docs
 Some documents for sharing...
